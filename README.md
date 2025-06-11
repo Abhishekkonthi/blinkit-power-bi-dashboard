@@ -1,1 +1,1 @@
-
+Developed a comprehensive and interactive sales performance dashboard for Blinkit, focusing on key business metrics to provide actionable insights for decision-makers. The dashboard visualizes over $1.2M in total sales data, segmented by outlet types, item types, fat content, and geographic tiers.
